@@ -1,0 +1,5 @@
+Z:\TECNICATURAS\Aguilar Andrea\PASANTIAS 2013\TareaUbicua\TaTeTi_isp20\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\TECNICATURAS\Aguilar Andrea\PASANTIAS 2013\TareaUbicua\TaTeTi_isp20\bin\Debug\TaTeTi_isp20.exe
+Z:\TECNICATURAS\Aguilar Andrea\PASANTIAS 2013\TareaUbicua\TaTeTi_isp20\bin\Debug\TaTeTi_isp20.pdb
+Z:\TECNICATURAS\Aguilar Andrea\PASANTIAS 2013\TareaUbicua\TaTeTi_isp20\obj\x86\Debug\TaTeTi_isp20.exe
+Z:\TECNICATURAS\Aguilar Andrea\PASANTIAS 2013\TareaUbicua\TaTeTi_isp20\obj\x86\Debug\TaTeTi_isp20.pdb

@@ -1,0 +1,5 @@
+Z:\TECNICATURAS\Aguilar Andrea\PASANTIAS 2013\TareaUbicua\TareaUbicua\bin\Debug\TareaUbicua.exe
+Z:\TECNICATURAS\Aguilar Andrea\PASANTIAS 2013\TareaUbicua\TareaUbicua\bin\Debug\TareaUbicua.pdb
+Z:\TECNICATURAS\Aguilar Andrea\PASANTIAS 2013\TareaUbicua\TareaUbicua\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\TECNICATURAS\Aguilar Andrea\PASANTIAS 2013\TareaUbicua\TareaUbicua\obj\x86\Debug\TareaUbicua.exe
+Z:\TECNICATURAS\Aguilar Andrea\PASANTIAS 2013\TareaUbicua\TareaUbicua\obj\x86\Debug\TareaUbicua.pdb
